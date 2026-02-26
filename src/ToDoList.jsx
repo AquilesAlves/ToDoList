@@ -9,7 +9,7 @@ function ToDoList() {
                 <input 
                     type="text" placeholder="Adicione uma Tarefa"
                 />
-                <button type="submit">
+                <button className="add" type="submit">
                     Add
                 </button>
             </form>
