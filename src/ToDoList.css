@@ -130,6 +130,7 @@ button.delAll{
     font-weight: bold;
     border-radius: 5px;
     cursor: pointer;
+    margin-top: 30px;
 
 }
 
@@ -139,7 +140,8 @@ button.delAll:hover{
 
 }
 
-.icone{
+.icone-central{
+    max-width: 100%;
     
 }
 
